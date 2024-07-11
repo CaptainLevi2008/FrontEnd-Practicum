@@ -1,0 +1,20 @@
+.logo{
+    position: relative;
+    width: 126px;
+}
+.start{
+    img{
+        position: relative;
+        left: 670px;
+        top: 50px;
+    }
+    h1{
+        position: relative;
+        top: -150px;
+        font: arial;
+    }
+    p{
+        position: relative;
+        top: -150px;
+    }
+}
